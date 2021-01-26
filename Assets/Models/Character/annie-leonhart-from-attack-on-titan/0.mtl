@@ -1,0 +1,226 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 16
+
+newmtl 24_Body_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.546886 0.514052 0.441799
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\clothes.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_spec.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes.png
+
+newmtl 24_Boot_strings_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.500242 0.479556 0.555710
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\clothes.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_spec.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes.png
+
+newmtl 24_Eyes_and_teeth_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.762205 0.486614 0.573909
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_1.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_4.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_3.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_1.png
+
+newmtl 24_Face_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.734499 0.603392 0.508719
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_1.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_4.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_3.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_1.png
+
+newmtl 24_Hair_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.700400 0.659071 0.697452
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_1.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_4.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_3.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_1.png
+
+newmtl 24_Hands_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.554026 0.440080 0.583636
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_1.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_4.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_3.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_1.png
+
+newmtl 24_Hoodie_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.665004 0.455751 0.755285
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_11.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_132.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_14.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_11.png
+
+newmtl 24_Hoodie_strings_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.446631 0.733370 0.512866
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_11.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_132.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_14.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_11.png
+
+newmtl 24_Jacket_lower_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.629762 0.768753 0.432921
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\clothes.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_spec.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes.png
+
+newmtl 24_Legs_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.720397 0.435540 0.559342
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\clothes.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_spec.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes.png
+
+newmtl 24_Plate_0.3_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.418703 0.625214 0.711737
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\clothes.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\bumpmap_flat.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_spec.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes.png
+
+newmtl 24_Rose_logo_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.538591 0.402356 0.630780
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\police.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\Police_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\Police_spc.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\police.png
+
+newmtl 24_Rose_logo_2_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.490805 0.697290 0.746937
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\police.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\Police_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\Police_spc.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\police.png
+
+newmtl 24_Skirt_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.404891 0.645879 0.735307
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\clothes.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_bump.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes_spec.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\clothes.png
+
+newmtl 25_Pupils_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.454045 0.692068 0.657173
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_highlight.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\bumpmap_flat.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_highlight_spc.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_highlight.png
+
+newmtl 25_Pupils_2_2_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.665806 0.637901 0.517776
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Annie Leonhart,Attack on Titan\0723_1.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\bumpmap_flat.png
+map_Ks D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_highlight_spc.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Annie Leonhart,Attack on Titan\\0723_1.png
